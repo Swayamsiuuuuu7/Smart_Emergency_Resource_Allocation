@@ -81,7 +81,7 @@ Smart_Emergency_Resource_Allocation/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Smart_Emergency_Resource_Allocation.git
+git clone https://github.com/Swayamsiuuuuu7/Smart_Emergency_Resource_Allocation.git
 ```
 
 ### 2. Navigate to the Project Directory
